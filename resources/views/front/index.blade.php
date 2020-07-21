@@ -37,5 +37,5 @@
         @else
             @include('front.closed')
         @endif
-    @include('mailchimp::mailchimp')
+{{--    @include('mailchimp::mailchimp')--}}
 @endsection
